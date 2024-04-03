@@ -13,7 +13,7 @@ connection.connect((err, data) => {
     if (err) {
         console.log("Database is not connected");
     } else {
-        console.log("Connection with ayushmanhospital Established..");
+        console.log("Connection with ayushmanhospital .");
     }
 });
 
